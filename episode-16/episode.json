@@ -1,0 +1,23 @@
+{
+  "title": "BODY AND SOUL",
+  "star":  "Seven of Nine",
+  "recipe": {
+    "name":        "Darjeeling Tea",
+    "temperature": "1",
+    "ingredients": [
+      "Darjeeling tea bag",
+      "cream",
+      "sugar"
+    ]
+  },
+  "lines": {
+    "setup":                                     "Ranek summoned me to the bridge under the pretext of a little stargazing. What he really wanted was to use my face as a tongue depressor!",
+    "replicator_command":                        "I require Darjeeling Tea",
+    "anticipating_replicator_creation":          "Seven stares at the plate...",
+    "responding_to_replicator_creation_success": "*leaves*",
+    "move_on_to_next_episode":                   "Congratulations! You may now move on to the next episode.",
+    "responding_to_nothing_on_replicator_plate": "I do not detect any nutritional biomatter.",
+    "responding_to_replicator_creation_failure": "This is not what I requested.",
+    "fix_replicator_request":                    "I request that you repair yourself."
+  }
+}
