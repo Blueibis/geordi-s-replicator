@@ -22,6 +22,7 @@ class Replicator
     mix
     adjust_temperature
     transport_glass_to_replicator_plate
+
   end
 
   def retrieve_glass
